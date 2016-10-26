@@ -17,16 +17,19 @@ sessions should be made a regular part of our schedule.
 *   Sessions run in January, February, and March 2017.  Each session is
     one hour long and takes place online.
 
-*   3-4 senior community members (tenured faculty and people at
-    equivalent levels in non-academic institutions).
+*   Each session will feature 3-4 senior community members in SWC-related professions 
+    (tenured faculty, communicators/teachers/consultants, research software 
+    engineers, academic and non-academic, etc.).
+    
+*   Proposed format: Brief introduction from each senior member (few minutes, 
+    each), then Q&A.
 
-*   Up to 20 junior participants per session.
+*   Up to 20 junior participants per session. Participation is first-come, first-served,
+    and registration/sign-up will anticipate 5-10 no-shows.
 
 *   In order to qualify for a spot, the junior participant must
     have taken part in a debriefing session in the previous three
     months.
-
-*   Participation is first-come, first-served.
 
 ## Steps to Achieve Goals
 
@@ -58,7 +61,7 @@ sessions should be made a regular part of our schedule.
 
 ## Assessment
 
-Progress will be measured and reported against the timeline above.
+Progress will be measured and reported against the timeline above, and against poll results from participants.
 
 ## Community Support
 
